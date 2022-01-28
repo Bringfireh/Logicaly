@@ -1,0 +1,26 @@
+Total Number of Employees : 3
+
+ID :				1
+Employee Number :	E0134
+Full Name :			Ngutor Tsenongo
+Title :				Manager
+Department :		Prod
+Phone Number :		0650000000
+Email Address :		ng.tsenongo@logicaly.net
+
+ID :				2
+Employee Number :	E0135
+Full Name :			Emmanuel Apav
+Title :				Trainee
+Department :		HR
+Phone Number :		0760000000
+Email Address :		em.apav@logicaly.net
+
+ID :				3
+Employee Number :	E0136
+Full Name :			Akar Tsenongo
+Title :				Director
+Department :		HR
+Phone Number :		0650000001
+Email Address :		ak.tsenongo@logicaly.net
+
